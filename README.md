@@ -23,9 +23,15 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/30e0aa47095c4a139c13fda544a67780?sid=693b3804-059c-426c-be9a-97aee85e938e' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
+<div>
+    <a href="https://www.loom.com/share/30e0aa47095c4a139c13fda544a67780">
+      <p>127.0.0.1:5500/index.html - 6 January 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/30e0aa47095c4a139c13fda544a67780">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/30e0aa47095c4a139c13fda544a67780-f78f1208a291b33e-full-play.gif">
+    </a>
+  </div>
+  
 GIF created with Loom.
 
 
