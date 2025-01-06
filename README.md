@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 
 <div>
     <a href="https://www.loom.com/share/30e0aa47095c4a139c13fda544a67780">
-      <p>127.0.0.1:5500/index.html - 6 January 2025 - Watch Video</p>
+      <p>Sea Monster Crowdfunding DEMO - Watch Video</p>
     </a>
     <a href="https://www.loom.com/share/30e0aa47095c4a139c13fda544a67780">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/30e0aa47095c4a139c13fda544a67780-f78f1208a291b33e-full-play.gif">
